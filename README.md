@@ -1,0 +1,2 @@
+# GUITrader_PMMP-Plugin
+インベントリーを用いてアイテムを交換するプラグイン

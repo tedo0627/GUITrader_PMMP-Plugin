@@ -1,0 +1,5 @@
+name: GUITrader
+main: trader\GUITrader
+version: 1.0.0
+api: [3.6.0]
+author: tedo0627
